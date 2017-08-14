@@ -1,0 +1,5 @@
+{
+	"name": "NodeChat",
+	"description": "Simple nodeJS chat app",
+	"image": "heroku/nodejs"
+}
